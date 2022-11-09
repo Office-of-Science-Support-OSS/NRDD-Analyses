@@ -1,5 +1,5 @@
 # NRDD-Analyses
-This repository contains a variety of code that can be used for text-mining.
+This repository contains a variety of code that can be used for text-mining or text analytics.
 
 ## tf-idf
 Term frequency-index document frequency (tf-idf) is a measurement of how relevant a term is to a document or a set of documents.
